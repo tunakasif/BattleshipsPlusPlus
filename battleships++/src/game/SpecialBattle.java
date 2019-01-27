@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Extends Battle Class to have special cards in the game play
  * depends on the final version of the Battle Class so not ready yet
- * @author Omer Faruk Oflaz
+ * @author Tuna Alikasifoglu
  * @version 5 May 2018
  *
  */
