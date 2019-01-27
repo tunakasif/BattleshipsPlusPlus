@@ -3,7 +3,7 @@ package game;
 /**
  * Holds the properties of name, length, orientation 
  * of the Battleships
- * @author Alperen Balci
+ * @author Tuna Alikasifoglu
  * @version 5 May 2018
  *
  */
