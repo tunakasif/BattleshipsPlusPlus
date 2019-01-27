@@ -2,7 +2,7 @@ package game;
 
 /**
  * By using BattleBoards crates and initiates a BattleShip Game
- * @author Gokay Tamzaralioglu
+ * @author Tuna Alikasifoglu
  * @version 5 May 2018
  *
  */
